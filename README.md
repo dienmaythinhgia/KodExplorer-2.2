@@ -5,3 +5,5 @@ wget https://raw.githubusercontent.com/dienmaythinhgia/KodExplorer-2.2/master/ko
 unzip kodexplorer4.22.zip 
 chmod -Rf 777 ./* 
 ```
+![Filemanager Screenshot](https://github.com/dienmaythinhgia/KodExplorer-2.2/blob/master/KodExplorer.png)
+![Filemanager Screenshot](https://github.com/dienmaythinhgia/KodExplorer-2.2/blob/master/KodExplorer1.png)
