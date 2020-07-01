@@ -4,10 +4,10 @@ cd /home/wwwroot/www.yourdomain.com
 
 ```
 ```
-wget http://static.kodcloud.com/update/download/kodexplorer4.22.zip \n
+wget https://raw.githubusercontent.com/dienmaythinhgia/KodExplorer-2.2/master/kodexplorer4.22.zip 
 
 ```
 ```
-unzip kodexplorer4.22.zip \n
-chmod -Rf 777 ./* \n
+unzip kodexplorer4.22.zip 
+chmod -Rf 777 ./* 
 ```
