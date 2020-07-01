@@ -1,5 +1,5 @@
 # KodExplorer-2.2
-```cd /home/wwwroot/www.yourdomain.com
+```cd /home/wwwroot/www.yourdomain.com\n
 ```
 ```
 wget http://static.kodcloud.com/update/download/kodexplorer4.22.zip \n
