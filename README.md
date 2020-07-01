@@ -2,8 +2,6 @@
 ```
 cd /home/wwwroot/www.yourdomain.com
 
-```
-```
 wget https://raw.githubusercontent.com/dienmaythinhgia/KodExplorer-2.2/master/kodexplorer4.22.zip 
 
 ```
