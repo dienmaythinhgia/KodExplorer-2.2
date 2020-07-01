@@ -7,3 +7,5 @@ chmod -Rf 777 ./*
 ```
 ![Filemanager Screenshot](https://github.com/dienmaythinhgia/KodExplorer-2.2/blob/master/KodExplorer.png)
 ![Filemanager Screenshot](https://github.com/dienmaythinhgia/KodExplorer-2.2/blob/master/KodExplorer1.png)
+
+Nếu lổi xóa file /config/define.php 
